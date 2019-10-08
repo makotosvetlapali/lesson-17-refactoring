@@ -71,20 +71,7 @@ public class PicturePanel extends JPanel implements ActionListener, KeyListener{
 	}
 	@Override
 	public void keyPressed(KeyEvent e) {
-		// TODO Auto-generated method stub
-//		if (e.getKeyCode() == KeyEvent.VK_SPACE && currentState == PUZZLE1_STATE) {
-//			System.out.println("HELLO");
-//
-//			currentState += 1;
-//
-//		} else if (e.getKeyCode() == KeyEvent.VK_SPACE && currentState == PUZZLE2_STATE) {
-//
-//			currentState += 1;
-//	}
-//	
-//		if (currentState > PUZZLE2_STATE){
-//		currentState = PUZZLE1_STATE;
-//		}
+
 	
 		}
 		
@@ -98,15 +85,7 @@ public class PicturePanel extends JPanel implements ActionListener, KeyListener{
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
-		
-//		repaint();
-//		// susan.update();
-//		if (currentState == PUZZLE1_STATE) {
-//			updatePuzzle1State();
-//		} else if (currentState == PUZZLE2_STATE) {
-//			updatePuzzle2State();
-//		}
+
 		
 		
 	}
