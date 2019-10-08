@@ -264,45 +264,7 @@ public class Game implements MouseListener, ActionListener {
 		// TODO Auto-generated method stub
 		System.out.println(e.getX());
 		System.out.println(e.getY());
-		// if(e.getX() <= 10){
-		// ringName.setText("Found me!");
-		// ringName.setBounds(foundMeX, findMeY + 40, foundMeWidth,
-		// foundMeHeight);
-
-		// }
-		// if (e.getX() >= sparklesX - 15 && e.getX() <= sparklesX + 15 &&
-		// e.getY() <= sparklesY + 15 && e.getY() >= sparklesY - 15) {
-		// bar.foundSparkles();
-		// checkMe4 = true;
-		// } else if (e.getX() >= ringX - 15 && e.getX() <= ringX + 15 &&
-		// e.getY() <= ringY + 15 && e.getY() >= ringY - 15) {
-		// bar.foundRing();
-		// checkMe2 = true;
-		// } else if (e.getX() >= backpackX - 15 && e.getX() <= backpackX + 15
-		// && e.getY() <= backpackY + 15 && e.getY() >= backpackY - 15) {
-		// bar.foundBackpack();
-		// checkMe3 = true;
-		// } else if (e.getX() >= pawprintX - 15 && e.getX() <= pawprintX + 15
-		// && e.getY() <= pawprintY + 15 && e.getY() >= pawprintY - 15) {
-		// bar.foundPawprint();
-		// checkMe5 = true;
-		// } else if (e.getX() >= diamondX - 15 && e.getX() <= diamondX + 15 &&
-		// e.getY() <= diamondY + 15 && e.getY() >= diamondY - 15) {
-		// bar.foundDiamond();
-		// checkMe6 = true;
-		// } else if (e.getX() >= snakeX - 15 && e.getX() <= snakeX + 15 &&
-		// e.getY() <= snakeY + 15 && e.getY() >= snakeY - 15) {
-		// bar.foundSnake();
-		// checkMe = true;
-		// }
-		// if (checkMe == true && checkMe2 == true && checkMe3 == true &&
-		// checkMe4 == true && checkMe5 == true && checkMe6 == true) {
-		// JOptionPane.showMessageDialog(null, "Congratulations! You found all
-		// the pictures! \n Ready for level 2?");
-		// panel.nextLevelPicture();
-		// bar.nextLevelBar();
-		// gameNumber += 1;
-		// }
+		
 
 	}
 
